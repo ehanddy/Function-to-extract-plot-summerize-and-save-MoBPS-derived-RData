@@ -1,0 +1,17 @@
+"Generations" "TimeP" "CohortGen" "InbreedingCof"
+1 "0" "FoundersA FoundersB" 0
+2 "0" "Sires Dams" 0.00627745573892227
+3 "9" "SelectedSires" 0
+4 "10" "Offspring Offspring2" 0.0324862654242112
+5 "19" "SelectedSires_1" 0.0217611275359374
+6 "20" "Offspring_1 Offspring2_1" 0.0553392490814501
+7 "29" "SelectedSires_2" 0.0405642133229444
+8 "30" "Offspring_2 Offspring2_2" 0.0759763628552717
+9 "39" "SelectedSires_3" 0.04159415697523
+10 "40" "Offspring_3 Offspring2_3" 0.0991148902153549
+11 "49" "SelectedSires_4" 0.102406993236487
+12 "50" "Offspring_4 Offspring2_4" 0.112345109847286
+13 "59" "SelectedSires_5" 0.0935712499836864
+14 "60" "Offspring_5 Offspring2_5" 0.128668356488465
+15 "69" "SelectedSires_6" 0.124869513697652
+16 "70" "Offspring_6 Offspring2_6" 0.146272235962672

@@ -1,0 +1,27 @@
+"Generations" "TimeP" "CohortGen" "InbreedingCof"
+1 "0" "Landrace-1 Landrace-2 Elite-Sub-Pop" 0
+2 "0" "Elite-line" 0
+3 "90" "F1-Landraces" 0.0396599392601292
+4 "180" "Inbreds" 0.0413025419616488
+5 "270" "Inbreds_1" 0.0939776160230015
+6 "360" "Inbreds_2" 0.124743149966245
+7 "450" "Inbreds_3" 0.134127971138575
+8 "540" "Inbreds_4" 0.159036968648103
+9 "630" "Inbreds_5" 0.209679380962156
+10 "720" "Inbreds_6" 0.304485208384046
+11 "810" "Inbreds_7" 0.347759095826503
+12 "900" "Inbreds_8" 0.218071712277548
+13 "990" "Inbreds_9" 0.251752789147431
+14 "1080" "Inbreds_10" 0.356666502202836
+15 "1170" "Base-Population Selected-Female-1 Selected-Male-1" 0.404936783769877
+16 "1260" "Cycle Selected-Female-2 Selected-Male-2" 0.334493857189434
+17 "1350" "Cycle_1 Selected-Female-2_1 Selected-Male-2_1" 0.386821957160103
+18 "1440" "Cycle_2 Selected-Female-2_2 Selected-Male-2_2" 0.366639301053144
+19 "1530" "Cycle_3 Selected-Female-2_3 Selected-Male-2_3" 0.379527775103626
+20 "1620" "Cycle_4 Selected-Female-2_4 Selected-Male-2_4" 0.443620192027294
+21 "1710" "Cycle_5 Selected-Female-2_5 Selected-Male-2_5" 0.483591202625312
+22 "1800" "Cycle_6 Selected-Female-2_6 Selected-Male-2_6" 0.554218743437694
+23 "1890" "Cycle_7 Selected-Female-2_7 Selected-Male-2_7" 0.633442000410193
+24 "1980" "Cycle_8 Selected-Female-2_8 Selected-Male-2_8" 0.676428076528844
+25 "2070" "Cycle_9 Selected-Female-2_9 Selected-Male-2_9" 0.763041012873352
+26 "2160" "Cycle_10 Selected-Female-2_10 Selected-Male-2_10" 0.790324139652726
